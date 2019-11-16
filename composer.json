@@ -1,0 +1,6 @@
+{
+    "require": {
+        "topthink/think-captcha": "2.*",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
